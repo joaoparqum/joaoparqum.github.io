@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: rgb(0, 3, 39);
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
 }
@@ -58,6 +58,10 @@ section#Tecnologias{
     text-align: center;
 }
 
+section#Tecnologias p{
+    color: white;
+}
+
 section#Tecnologias img{
    margin: 0 5px;
    height: 70px;
@@ -94,7 +98,7 @@ iframe#jordan{
 div.meu{
     display: flex;
     justify-content: center;
-    background-color: rgb(104, 16, 104);
+    background-color: rgb(0, 0, 0);
 }
 
 div#interface header p{
@@ -162,7 +166,7 @@ footer{
     text-align: center;
     color: yellow;
     font-size: 20px;
-    background-color: rgb(104, 16, 104);
+    background-color: rgb(0, 0, 0);
     padding: 15px;
 }
 
@@ -186,7 +190,6 @@ div#conta{
 }
 
 header#cabecalho{
-    border-bottom: 1px black solid;
     text-align: center;
 }
 

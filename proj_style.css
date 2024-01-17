@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(0, 3, 39);
+    background-color: rgb(0, 5, 53);
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
 }
@@ -239,4 +239,39 @@ section#subtitulo p{
 section#form email{
     width: 640px;
     height: 400px;
+}
+
+section#api {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#marcacao {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#email {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#form {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#kobe {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }

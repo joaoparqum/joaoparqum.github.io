@@ -219,3 +219,27 @@ table#tablespec td.ce{
 table#tablespec caption{
     margin-bottom: 10px;
 }
+
+section#cont {
+    max-width: 600px;
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+div#fresh{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}

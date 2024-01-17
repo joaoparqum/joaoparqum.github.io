@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(0, 3, 39);
+    background-color: rgb(0, 5, 53);
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
 }
@@ -219,4 +219,11 @@ table#tablespec td.ce{
 
 table#tablespec caption{
     margin-bottom: 10px;
+}
+
+section#Tecnologias {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }

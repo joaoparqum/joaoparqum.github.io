@@ -218,7 +218,34 @@ table#tablespec caption{
 }
 
 section img{
-    margin: 0 280px;
+    width: 640px;
+    height: 360px;
+    max-width: 100vw;
+}
+
+div#spot{
+    display: flex;
+    justify-content: center;
+}
+
+div#disp{
+    display: flex;
+    justify-content: center;
+}
+
+div#back{
+    display: flex;
+    justify-content: center;
+}
+
+div#ball{
+    display: flex;
+    justify-content: center;
+}
+
+div#reyo{
+    display: flex;
+    justify-content: center;
 }
 
 section#form img{
@@ -226,11 +253,6 @@ section#form img{
     height: 360px;
 }
 
-section#marcacao img{
-    margin: 0 320px;
-    width: 600px;
-    height: 350px;
-}
 
 section#subtitulo p{
     text-align: center;

@@ -248,6 +248,11 @@ div#reyo{
     justify-content: center;
 }
 
+div#cle{
+    display: flex;
+    justify-content: center;
+}
+
 section#form img{
     width: 640px;
     height: 360px;
@@ -292,6 +297,13 @@ section#form {
 }
 
 section#kobe {
+    padding: 1em;
+    background-color: #00010f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#clean {
     padding: 1em;
     background-color: #00010f;
     border-radius: 8px;
